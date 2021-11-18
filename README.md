@@ -1,4 +1,4 @@
-# multi_agent_simulation_interface
+# Multi-Agent Simulation Interface
 This is an interface to run demos of multi-agent system control simulation.
 
 Author: Bin Zhang  
