@@ -1,7 +1,9 @@
 # multi_agent_simulation_interface
 This is an interface to run demos of multi-agent system control simulation.
 
-Author: Bin Zhang  Mail: me-bin.zhang@connect.polyu.hk
+Author: Bin Zhang  
+
+Mail: me-bin.zhang@connect.polyu.hk
 
 ## Installation and usage
 This interface was built by Matlab App Designer and depends on the Matlab Runtime (V9.7).
